@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Francisco, A.K.A @FranxLRM
+- 👋 Hi, I’m Francisco, A.K.A @FeraTech
 - 👀 I’m interested in learn and share
 - 🌱 I’m currently learning Python & C
 - 💞️ I’m looking to collaborate on FOSS projects
